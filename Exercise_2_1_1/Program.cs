@@ -13,7 +13,7 @@ namespace Exercise_2_1_1
 
             Console.WriteLine( $"Relation: {relation}");
             Console.WriteLine();
-            //test
+            //test 2
 
             var fdList = new List<FunctionalDependency>()
             {
